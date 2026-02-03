@@ -35,6 +35,10 @@ I enjoy transforming ideas into real-world solutions and continuously improving 
 
 ## 🏢 Software Agency
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aldair-NPM/Aldair-NPM/main/assets/shadowtic-logo.png" width="120"/>
+</div>
+
 Founder of **ShadowTic**, a software development agency focused on creating custom digital solutions for businesses.
 
 We specialize in:
