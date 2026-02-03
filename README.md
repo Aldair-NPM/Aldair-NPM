@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- 🔥 YOUR PROFILE PHOTO -->
 <img src="https://github.com/Aldair-NPM.png" width="170" style="border-radius:50%"/>
-
 
 # Hi there 👋 I'm Aldair Amador
 
-Full Stack Developer  
+Full Stack Developer | Software Entrepreneur  
 
 <a href="https://www.linkedin.com/in/aldair-amador">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -30,17 +28,36 @@ Full Stack Developer
 
 ## 🧑‍💻 About Me
 
-Full Stack Developer focused on building modern, scalable, and efficient web and mobile applications.  
-Passionate about turning ideas into real-world products and continuously improving my skills.
+Full Stack Developer focused on building modern, scalable and efficient web and mobile applications.  
+I enjoy transforming ideas into real-world solutions and continuously improving my skills.
+
+---
+
+## 🏢 Software Agency
+
+Founder of **ShadowTic**, a software development agency focused on creating custom digital solutions for businesses.
+
+We specialize in:
+
+- Web Applications  
+- Mobile Applications  
+- Business Systems  
+- Dashboards & Admin Panels  
+- Automation & Integrations  
+
+Our goal is to help businesses grow through technology.
+
+🌐 https://shadow-tic-oficial.netlify.app/
 
 ---
 
 ## 🚀 Currently Working On
 
-- SaaS management systems  
-- Dashboards & admin panels  
-- Authentication & authorization systems  
+- SaaS platforms  
+- Business management systems  
+- Authentication & authorization  
 - Real-time applications  
+- Scalable architectures  
 
 ---
 
@@ -65,22 +82,6 @@ Passionate about turning ideas into real-world products and continuously improvi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair-NPM&layout=compact&theme=tokyonight"/>
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-### 🦷 Dental SaaS  
-Management system for dental clinics  
-🔗 https://github.com/Aldair-NPM/dentalcloud
-
-### 👓 Optical Store System  
-CRUD + Dashboard + Scheduling  
-🔗 https://github.com/Aldair-NPM/optica-system
-
-### 💬 Real-time Chat App  
-React Native + SignalR + MongoDB  
-🔗 https://github.com/Aldair-NPM/chat-app
 
 ---
 
